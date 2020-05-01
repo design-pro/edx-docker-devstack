@@ -4,8 +4,8 @@ MAINTAINER Omar Al-Ithawi <i@omardo.com>
 
 # The latest from edx/master that worked with me
 # change it to the commit you'd like
-ENV EDX_VERSION 99b029969c4d5fabb14a06361a39ee2f8d623598
-
+#ENV EDX_VERSION 99b029969c4d5fabb14a06361a39ee2f8d623598
+ENV EDX_VERSION open-release/eucalyptus.1
 ENV EDX_REPO https://github.com/edx/edx-platform.git
 
 # Create directories that edX expects
